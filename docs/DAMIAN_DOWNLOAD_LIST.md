@@ -10,8 +10,8 @@ A versatile and widely used source code editor.
     3.  Drag the VS Code icon to the Applications folder.
     4.  Launch from Applications or Dock.
 
-Here's my settings file. Just import it:
-<script src="https://gist.github.com/delorenj/e6b30081b23f69940fdca7b27b14fb8f.js"></script>
+Here's my [settings](https://gist.github.com/delorenj/e6b30081b23f69940fdca7b27b14fb8f.js) file. 
+Just import it 
 
 ### Local LLM Environment
 
